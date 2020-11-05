@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 </em></p>
 
 [![Twitter: Damon_develops](https://img.shields.io/twitter/follow/damon_develops?style=social)](https://twitter.com/damon-develops)
-[![Linkedin: damon-schulz](https://img.shields.io/badge/-damon-schulz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/damon-schulz/)
+[![Linkedin: damon-schulz](https://img.shields.io/badge/-damonschulz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/damon-schulz/)
 [![GitHub Damon](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
 
 
