@@ -1,17 +1,4 @@
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h2> Hi, I'm Damon! <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="100"></h2>
 <img align='right' src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="230">
 <p><em> Web Developer Cert from <a href="http://www.devcodecamp.com">devCodeCamp</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Personal Website is <a href="https://www.my-react-port.herokuapp.com"><em>Here</em></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
@@ -28,12 +15,12 @@ Here are some ideas to get you started:
 const Damon = {
   pronouns: "He" | "Him",
   code: [Javascript, HTML, CSS, Typescript],
-  tools: [React, Exoress, Node, noSQL, Git, Heroku, JWT],
+  tools: [React, Express, Node, noSQL, Git, Heroku, JWT],
   architecture: ["layered", "event-driven", "microservices"]
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I'd love to connect!</b> so if you want reach out, <b>Checkout my Social Media above!</b> :)</em>
 
 ---
 
