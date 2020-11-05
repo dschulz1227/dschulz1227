@@ -6,8 +6,8 @@
 ---
 
 <img align='right' src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300">
-<p><em></br> Web Developer Cert from <a href="http://www.devcodecamp.com">devCodeCamp</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-</br>Personal Website is <a href="https://www.my-react-port.herokuapp.com"><em>Here</em></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em></br></br> Web Developer Cert from <a href="http://www.devcodecamp.com">devCodeCamp</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+</br></br>Personal Website is <a href="https://www.my-react-port.herokuapp.com"><em>Here</em></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: Damon_develops](https://img.shields.io/twitter/follow/damon_develops?style=social)](https://twitter.com/damon-develops)
