@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 <p><em> Web Developer Cert from <a href="http://www.devcodecamp.com">devCodeCamp</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter: Damon_develops](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
-[![Linkedin: damon-schulz](https://img.shields.io/badge/-damon_develops-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
+[![Twitter: Damon_develops](https://img.shields.io/twitter/follow/damon_develops?style=social)](https://twitter.com/damon-develops)
+[![Linkedin: damon-schulz](https://img.shields.io/badge/-damon-schulz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/damon-schulz/)
 [![GitHub Damon](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
 
 
