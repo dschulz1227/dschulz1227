@@ -1,6 +1,6 @@
 
 <h2> Hi, I'm Damon! <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="100"></h2>
-<img align='right' src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300">
 <p><em> Web Developer Cert from <a href="http://www.devcodecamp.com">devCodeCamp</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Personal Website is <a href="https://www.my-react-port.herokuapp.com"><em>Here</em></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
