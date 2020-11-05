@@ -9,10 +9,11 @@
 [![GitHub Damon](https://img.shields.io/github/followers/dschulz1227?label=follow&style=social)](https://github.com/dschulz1227)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/QvjmxpTkWK6ty5DTJY/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const Damon = {
+  location: "Mississippi",
   pronouns: "He" | "Him",
   code: [Javascript, HTML, CSS, Typescript],
   tools: [React, Express, Node, noSQL, Git, Heroku, JWT],
@@ -20,7 +21,7 @@ const Damon = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I'd love to connect!</b> so if you want reach out, <b>Checkout my Social Media above!</b> :)</em>
+<img src="https://media.giphy.com/media/vcHTRiZOglHNu/giphy.gif" width="70"> <em><b>I'd love to connect!</b> so if you want reach out, <b>Checkout my Social Media above!</b></em>
 
 ---
 
